@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+walmartsales.egg-info/PKG-INFO
+walmartsales.egg-info/SOURCES.txt
+walmartsales.egg-info/dependency_links.txt
+walmartsales.egg-info/requires.txt
+walmartsales.egg-info/top_level.txt
